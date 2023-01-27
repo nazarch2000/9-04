@@ -50,5 +50,9 @@
 Интегрируйте Grafana и Prometheus.
 
 *Приложите скриншот дашборда (ID:11074) с поступающими туда данными из Node Exporter.*
+
+```
 А ГДЕ ОТОБРАЖАЕТСЯ ID ДАШБОАРДА???
+```
+
 ![image](https://user-images.githubusercontent.com/106932460/215057327-b9b04329-1169-4d48-b8af-20690032e491.png)
